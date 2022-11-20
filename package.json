@@ -1,7 +1,7 @@
 {
   "name": "@fe_korey/resume",
   "version": "4.0.0",
-  "description": "赵柯宇的web前端工程师简历",
+  "description": "戴金森的web前端工程师简历",
   "main": "dist/index.html",
   "homepage": "https://resume.flqin.com",
   "keywords": [
