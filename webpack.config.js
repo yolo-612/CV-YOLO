@@ -75,8 +75,9 @@ const config = {
 if (_DEV_) {
   config.devtool = 'eval-source-map';
   config.devServer = {
-    host: '0.0.0.0',
+    host: '127.0.0.1',
     port: 8080,
+    open: true,
     stats: 'errors-only',
     overlay: true
   };
